@@ -1,0 +1,6 @@
+h1.blue {color: blue}
+h2.font {font-size: 14px}
+.p {font-size: 12px;color: yellow;background: black}
+img.imgbox {border-style: solid;border-color: red;border-width:2px}
+.container {text-align:center;;width: 960px;background: red}
+.center {display: block;border:2px solid #fff;}
